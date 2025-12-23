@@ -60,5 +60,27 @@ It demonstrates practical use of routing, VLANs, DHCP, and security mechanisms i
 - Additional VLAN segmentation
 
 ---
+## 🗺️ Network Diagrams (Logical View)
+
+### 🌐 Complete Network Topology
+![Full Network Diagram](images/full-network.png)
+
+---
+
+### 🏬 Lahore Closet
+![Lahore Network Diagram](images/lahore-closet.png)
+
+---
+
+### 🏙️ Karachi Closet
+![Karachi Network Diagram](images/karachi-closet.png)
+
+---
+
+### 🏛️ Islamabad Closet
+![Islamabad Network Diagram](images/islamabad-closet.png)
+
+
+---
 
 📌 *This repository is created for academic and learning purposes.*
